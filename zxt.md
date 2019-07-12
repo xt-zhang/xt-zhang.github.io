@@ -22,7 +22,7 @@
 ### 文章
 9. Extreme representations of semirings, with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann. (arXiv:1806.06501)
 
-8. Analogues of centralizer subalgebras for at 2-categories and their 2-representations, with M. Mackaay, V. Mazorchuk and V. Miemietz, to appear in **J. Inst. Math. Jussieu.** (arXiv:1802.02078, doi:10.1017/S1474748018000555.)
+8. Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, with M. Mackaay, V. Mazorchuk and V. Miemietz, to appear in **J. Inst. Math. Jussieu.** (arXiv:1802.02078, doi:10.1017/S1474748018000555.)
 
 7. Indecomposable manipulations with simple modules in category O, with K. Coulembier and V. Mazorchuk, to appear in **Math. Res. Lett.** (arXiv:1709.00547)
 
@@ -30,10 +30,10 @@
 
 5. Bimodules over uniformly oriented An quivers with radical square zero, with V.Mazorchuk, to appear in **Kyoto J. Math.** (arXiv:1703.08377)
 
-4. Characterisation and applications of |-split bimodules, with V. Mazorchuk and V. Miemietz, to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. (arXiv:1701.03025)
+4. Characterisation and applications of k-split bimodules, with V. Mazorchuk and V. Miemietz, to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. (arXiv:1701.03025)
 
-3. Simple transitive 2-representations for two non-at 2-categories of projective functors, with V. Mazorchuk, **Ukr. Mat. Zh.** 70 (2018), no. 12, 1625-1649. (arXiv:1601.00097)
+3. Simple transitive 2-representations for two non-fiat 2-categories of projective functors, with V. Mazorchuk, **Ukr. Mat. Zh.** 70 (2018), no. 12, 1625-1649. (arXiv:1601.00097)
 
-2. Simple transitive 2-representations and Drinfeld center for some nitary 2-categories, **J. Pure Appl. Algebra** 222 (2018), no. 1, 97-130. (arXiv:1506.02402)
+2. Simple transitive 2-representations and Drinfeld center for some finitary 2-categories, **J. Pure Appl. Algebra** 222 (2018), no. 1, 97-130. (arXiv:1506.02402)
 
 1. Duflo involutions for 2-categories associated to tree quivers, **J. Algebra Appl.** 15 (2016), no. 3, 1650041, 25 pp. (arXiv:1501.03052)
