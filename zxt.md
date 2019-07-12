@@ -9,7 +9,7 @@
 **电子邮件：** [xiaoting.zhang@math.uu.se]()  <br>   
 
 ## 研究兴趣
-> 高维表示论 范畴化
+> 高阶表示论 范畴化
 
 ## 预印本
 * 2-representations of Soergel bimodules, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer_, [arXiv:1906.11468](https://arxiv.org/abs/1906.11468)
