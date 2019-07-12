@@ -14,7 +14,7 @@
 Uppsala University, Box. 480 <br>
 SE-751 06,Uppsala, Sweden
 
-## Research interest: 
+## Research interest
 > higher representation theory and categorification
 
 ## Publications
