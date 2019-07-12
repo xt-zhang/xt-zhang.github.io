@@ -2,7 +2,7 @@
 :---: | :---: 
 [个人主页](https://xt-zhang.github.io/zxt)  | [背景](https://xt-zhang.github.io/BJ)  
 
-# <span style="font-family:STKaiti;font-size:12;font-color:blue">张笑婷 </span> 
+# <span style="font-family:STKaiti;font-size:12;font-color:blue">Xiaoting Zhang 张笑婷 </span> 
 ---
 
 ## 教育背景
