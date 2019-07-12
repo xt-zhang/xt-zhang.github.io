@@ -2,7 +2,7 @@
 :---: | :---: 
 [个人主页](https://xt-zhang.github.io/zxt)  | [背景](https://xt-zhang.github.io/BJ)  
 
-# <span style="font-family:STKaiti;font-size:12;font-color:blue"> Zhang Xiaoting 张笑婷 </span>  
+# <span style="font-family:STKaiti;font-size:12;font-color:blue"> Xiaoting Zhang 张笑婷 </span>  
 ---
 <img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
@@ -42,7 +42,7 @@ SE-751 06,Uppsala, Sweden
 * Extreme representations of semirings, <br> with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann. [arXiv:1806.06501](https://arxiv.org/abs/1806.06501)
 ### 论文
 * Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, <br> with M. Mackaay, V. Mazorchuk and V. Miemietz, <br> to appear in **J. Inst. Math. Jussieu.** 
-[arXiv:1802.02078](https://arxiv.org/abs/1802.02078) [doi](doi:10.1017/S1474748018000555))
+[arXiv:1802.02078](https://arxiv.org/abs/1802.02078)
 * Indecomposable manipulations with simple modules in category O, <br> with K. Coulembier and V. Mazorchuk, <br> to appear in **Math. Res. Lett.** 
 [arXiv:1709.00547](https://arxiv.org/abs/1709.00547)
 * Pyramids and 2-representations, <br> with V. Mazorchuk and V. Miemietz. <br> to appear in **Rev. Mat. Iberoam.** 
