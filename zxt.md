@@ -1,6 +1,4 @@
-[Homepage](https://xt-zhang.github.io)  | [Background](https://xt-zhang.github.io/BG)  
-:---: | :---: 
-[个人主页](https://xt-zhang.github.io/zxt)  | [背景](https://xt-zhang.github.io/BJ)  
+[Homepage](https://xt-zhang.github.io) | [个人主页](https://xt-zhang.github.io/zxt) 
 
 # <span style="font-family:STKaiti;font-size:12;font-color:blue"> Xiaoting Zhang 张笑婷 </span>  
 ---
