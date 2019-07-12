@@ -33,7 +33,7 @@ SE-751 06,Uppsala, Sweden
 
 5. Bimodules over uniformly oriented An quivers with radical square zero, with V.Mazorchuk, to appear in **Kyoto J. Math.** (arXiv:1703.08377)
 
-4. Characterisation and applications of |-split bimodules, with V. Mazorchuk and V. Miemietz, to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. (arXiv:1701.03025)
+4. Characterisation and applications of k-split bimodules, with V. Mazorchuk and V. Miemietz, to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. (arXiv:1701.03025)
 
 3. Simple transitive 2-representations for two non-at 2-categories of projective functors, with V. Mazorchuk, **Ukr. Mat. Zh.** 70 (2018), no. 12, 1625-1649. (arXiv:1601.00097)
 
