@@ -7,19 +7,18 @@
 <img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
 ## 个人信息
-**职位：**  博士后 @  **乌普萨拉大学** 数学系  <br>
+**职位：**  博士后 @  **[乌普萨拉大学](https://www.uu.se/en)** [数学系](http://math.uu.se/?languageId=1)  <br>
 **电子邮件：** [xiaoting.zhang@math.uu.se]()  <br>   
 
 ## 研究兴趣
 > 高维表示论 范畴化
 
-## 文章
-### 预印本
+## 预印本
 * 2-representations of Soergel bimodules, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer_, [arXiv:1906.11468](https://arxiv.org/abs/1906.11468)
 * 2-categories of symmetric bimodules and their 2-representations, _with V. Mazorchuk and V. Miemietz,_ [arXiv:1904.05798](https://arxiv.org/abs/1904.05798)
 * Extreme representations of semirings, _with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann,_ [arXiv:1806.06501](https://arxiv.org/abs/1806.06501)
 
-### 论文
+## 论文
 * Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, _with M. Mackaay, V. Mazorchuk and V. Miemietz,_ to appear in **J. Inst. Math. Jussieu.** ([arXiv:1802.02078](https://arxiv.org/abs/1802.02078))
 * Indecomposable manipulations with simple modules in category O, _with K. Coulembier and V. Mazorchuk_, to appear in **Math. Res. Lett.** ([arXiv:1709.00547](https://arxiv.org/abs/1709.00547))
 * Pyramids and 2-representations, _with V. Mazorchuk and V. Miemietz_, to appear in **Rev. Mat. Iberoam.** ([arXiv:1705.03174](https://arxiv.org/abs/1705.03174))
