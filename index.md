@@ -7,8 +7,7 @@
 <img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
 ## Personal informaiton
-**Position:**  Postdoc @ Department of Mathematics <br> 
-**Uppsala University**  <br>
+**Position:**  Postdoc @ [Department of Mathematics](http://math.uu.se/?languageId=1), **[Uppsala University](https://www.uu.se/en)**  <br>
 **Email:** [xiaoting.zhang@math.uu.se]()  <br>   
 **Address:**  Department of Mathematics, Uppsala University, Box. 480, SE-751 06,Uppsala, Sweden
 
