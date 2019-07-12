@@ -12,7 +12,7 @@
 **电子邮件** [xiaoting.zhang@math.uu.se]()  <br>   
 
 ## 研究兴趣
-> 高维表示论。范畴化.
+> 高维表示论 范畴化
 
 [Homepage](https://xt-zhang.github.io)  | [Background](https://xt-zhang.github.io/BG)  
 :---: | :---: 
