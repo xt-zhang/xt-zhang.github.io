@@ -14,25 +14,6 @@
 ## 研究兴趣
 > 高维表示论 范畴化
 
-[Homepage](https://xt-zhang.github.io)  | [Background](https://xt-zhang.github.io/BG)  
-:---: | :---: 
-[个人主页](https://xt-zhang.github.io/zxt)  | [背景](https://xt-zhang.github.io/BJ)  
-
-# <span style="font-family: sans-serif;font-size:12"> Xiaoting Zhang</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">张笑婷 </span> 
----
-<img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
-
-## Personal informaiton
-**Position:**  Postdoc @ <br> 
-**Uppsala University**  <br> Uppsala, Sweden.  <br>
-**Email** [xiaoting.zhang@math.uu.se]()  <br>   
-**Address** Department of Mathematics <br>
-Uppsala University, Box. 480 <br>
-SE-751 06,Uppsala, Sweden
-
-## Research interest: 
-> higher representation theory and categorification.
-
 ## 文章
 ### 预印本
 * 2-representations of Soergel bimodules,<br> with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer. <br> 
