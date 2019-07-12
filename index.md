@@ -19,29 +19,20 @@ SE-751 06,Uppsala, Sweden
 
 ## Publications
 ### Preprints
-11. 2-representations of Soergel bimodules,<br> with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer. <br> 
+* 2-representations of Soergel bimodules,<br> with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer. <br> 
 [arXiv:1906.11468](https://arxiv.org/abs/1906.11468)
-###
-10. 2-categories of symmetric bimodules and their 2-representations, <br> with V. Mazorchuk and V. Miemietz. <br> 
+* 2-categories of symmetric bimodules and their 2-representations, <br> with V. Mazorchuk and V. Miemietz. <br> 
 [arXiv:1904.05798](https://arxiv.org/abs/1904.05798)
-###
-9. Extreme representations of semirings, <br> with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann. [arXiv:1806.06501](https://arxiv.org/abs/1806.06501)
+* Extreme representations of semirings, <br> with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann. [arXiv:1806.06501](https://arxiv.org/abs/1806.06501)
 ### Papers
-8. Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, <br> with M. Mackaay, V. Mazorchuk and V. Miemietz, <br> to appear in **J. Inst. Math. Jussieu.** 
+* Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, <br> with M. Mackaay, V. Mazorchuk and V. Miemietz, <br> to appear in **J. Inst. Math. Jussieu.** 
 [arXiv:1802.02078](https://arxiv.org/abs/1802.02078) [doi](doi:10.1017/S1474748018000555))
-###
-7. Indecomposable manipulations with simple modules in category O, <br> with K. Coulembier and V. Mazorchuk, <br> to appear in **Math. Res. Lett.** 
+* Indecomposable manipulations with simple modules in category O, <br> with K. Coulembier and V. Mazorchuk, <br> to appear in **Math. Res. Lett.** 
 [arXiv:1709.00547](https://arxiv.org/abs/1709.00547)
-###
-6. Pyramids and 2-representations, <br> with V. Mazorchuk and V. Miemietz. <br> to appear in **Rev. Mat. Iberoam.** 
+* Pyramids and 2-representations, <br> with V. Mazorchuk and V. Miemietz. <br> to appear in **Rev. Mat. Iberoam.** 
 [arXiv:1705.03174](https://arxiv.org/abs/1705.03174)
-###
-5. Bimodules over uniformly oriented An quivers with radical square zero, <br>  with V.Mazorchuk,<br>  to appear in **Kyoto J. Math.** [arXiv:1703.08377](https://arxiv.org/abs/1703.08377)
-###
-4. Characterisation and applications of k-split bimodules, <br> with V. Mazorchuk and V. Miemietz,<br>  to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. [arXiv:1701.03025](https://arxiv.org/abs/1701.03025)
-###
-3. Simple transitive 2-representations for two non-fiat 2-categories of projective functors, <br> with V. Mazorchuk, <br> **Ukr. Mat. Zh.** 70 (2018), no. 12, 1625-1649. [arXiv:1601.00097](http://arxiv.org/abs/1601.00097)
-###
-2. Simple transitive 2-representations and Drinfeld center for some finitary 2-categories,<br>  **J. Pure Appl. Algebra** 222 (2018), no. 1, 97-130. [arXiv:1506.02402](http://arxiv.org/abs/1506.02402)
-###
-1. Duflo involutions for 2-categories associated to tree quivers,<br>  **J. Algebra Appl.** 15 (2016), no. 3, 1650041, 25 pp. [arXiv:1501.03052](http://arxiv.org/abs/1501.03052)
+* Bimodules over uniformly oriented An quivers with radical square zero, <br>  with V.Mazorchuk,<br>  to appear in **Kyoto J. Math.** [arXiv:1703.08377](https://arxiv.org/abs/1703.08377)
+* Characterisation and applications of k-split bimodules, <br> with V. Mazorchuk and V. Miemietz,<br>  to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. [arXiv:1701.03025](https://arxiv.org/abs/1701.03025)
+* Simple transitive 2-representations for two non-fiat 2-categories of projective functors, <br> with V. Mazorchuk, <br> **Ukr. Mat. Zh.** 70 (2018), no. 12, 1625-1649. [arXiv:1601.00097](http://arxiv.org/abs/1601.00097)
+* Simple transitive 2-representations and Drinfeld center for some finitary 2-categories,<br>  **J. Pure Appl. Algebra** 222 (2018), no. 1, 97-130. [arXiv:1506.02402](http://arxiv.org/abs/1506.02402)
+* Duflo involutions for 2-categories associated to tree quivers,<br>  **J. Algebra Appl.** 15 (2016), no. 3, 1650041, 25 pp. [arXiv:1501.03052](http://arxiv.org/abs/1501.03052)
