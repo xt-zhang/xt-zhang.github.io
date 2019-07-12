@@ -4,7 +4,7 @@
 
 # <span style="font-family: sans-serif;font-size:12"> Zhang Xiaoting</span> <span style="font-family:STKaiti;font-size:12;font-color:blue">张笑婷 </span> 
 ---
-<img src="" width="135" />  
+<img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
 ## Personal informaiton
 **Position:**  Postdoc @ <br> 
