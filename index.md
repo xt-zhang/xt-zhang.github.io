@@ -7,10 +7,11 @@
 <img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
 ## Personal informaiton
-**Position:**  Postdoc @ <br> 
+**Position:**  Postdoc @ Department of Mathematics <br> 
 **Uppsala University**  <br> Uppsala, Sweden.  <br>
 **Email** [xiaoting.zhang@math.uu.se]()  <br>   
-**Address** Department of Mathematics <br>
+**Address**  <br>
+Department of Mathematics <br>
 Uppsala University, Box. 480 <br>
 SE-751 06,Uppsala, Sweden
 
@@ -19,9 +20,9 @@ SE-751 06,Uppsala, Sweden
 
 ## Publications
 ### Preprints
-* 2-representations of Soergel bimodules, with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer. [arXiv:1906.11468](https://arxiv.org/abs/1906.11468)
-* 2-categories of symmetric bimodules and their 2-representations, with V. Mazorchuk and V. Miemietz. [arXiv:1904.05798](https://arxiv.org/abs/1904.05798)
-* Extreme representations of semirings, with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann. [arXiv:1806.06501](https://arxiv.org/abs/1806.06501)
+* 2-representations of Soergel bimodules, with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer, [arXiv:1906.11468](https://arxiv.org/abs/1906.11468)
+* 2-categories of symmetric bimodules and their 2-representations, with V. Mazorchuk and V. Miemietz, [arXiv:1904.05798](https://arxiv.org/abs/1904.05798)
+* Extreme representations of semirings, with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann, [arXiv:1806.06501](https://arxiv.org/abs/1806.06501)
 ### Papers
 * Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, <br> with M. Mackaay, V. Mazorchuk and V. Miemietz, <br> to appear in **J. Inst. Math. Jussieu.** 
 [arXiv:1802.02078](https://arxiv.org/abs/1802.02078) 
