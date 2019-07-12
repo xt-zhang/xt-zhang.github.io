@@ -21,7 +21,7 @@
 
 ### 论文
 * Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, _with M. Mackaay, V. Mazorchuk and V. Miemietz,_ to appear in **J. Inst. Math. Jussieu.** ([arXiv:1802.02078](https://arxiv.org/abs/1802.02078))
-* Indecomposable manipulations with simple modules in category O, _with_ K. Coulembier and V. Mazorchuk_, to appear in **Math. Res. Lett.** ([arXiv:1709.00547](https://arxiv.org/abs/1709.00547))
+* Indecomposable manipulations with simple modules in category O, _with K. Coulembier and V. Mazorchuk_, to appear in **Math. Res. Lett.** ([arXiv:1709.00547](https://arxiv.org/abs/1709.00547))
 * Pyramids and 2-representations, _with V. Mazorchuk and V. Miemietz_, to appear in **Rev. Mat. Iberoam.** ([arXiv:1705.03174](https://arxiv.org/abs/1705.03174))
 * Bimodules over uniformly oriented An quivers with radical square zero, _with V. Mazorchuk_, <br> to appear in **Kyoto J. Math.** ([arXiv:1703.08377](https://arxiv.org/abs/1703.08377))
 * Characterisation and applications of k-split bimodules, _with V. Mazorchuk and V. Miemietz_, <br> to appear in **Math. Scand.** 124 (2019), no. 2, 161-178. ([arXiv:1701.03025](https://arxiv.org/abs/1701.03025))
