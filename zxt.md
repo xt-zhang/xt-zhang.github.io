@@ -6,7 +6,7 @@
 
 ## 个人信息
 **职位：**  博士后 @  **[乌普萨拉大学](https://www.uu.se/en)** [数学系](http://math.uu.se/?languageId=1)  <br>
-**电子邮件：** [xiaoting.zhang@math.uu.se]()  <br>   
+**电子邮件：** [xiaoting.zhang09@hotmail.com]()  <br>   
 
 ## 研究兴趣
 > 高阶表示论 范畴化
