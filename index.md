@@ -6,7 +6,7 @@
 
 ## Personal informaiton
 **Position:**  Postdoc @ [Department of Mathematics](http://math.uu.se/?languageId=1), **[Uppsala University](https://www.uu.se/en)**  <br>
-**Email:** [xiaoting.zhang@math.uu.se]()  <br>   
+**Email:** [xiaoting.zhang09@hotmail.com]()  <br>   
 **Address:**  Department of Mathematics, Uppsala University, Box. 480, SE-751 06, Uppsala, Sweden
 
 ## Research interest
