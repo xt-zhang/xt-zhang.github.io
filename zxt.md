@@ -6,7 +6,7 @@
 
 ## 个人信息
 **职位：**  副研究员 @  **[首都师范大学]()** [交叉科学研究院]()  <br>
-**电子邮件：** [xiaoting.zhang09@hotmail.com]()  <br>   
+**电子邮件：** [xiaoting.zhang09@hotmail.com]()  <br>  
 
 ## 研究兴趣
 > 高阶表示论 范畴化
