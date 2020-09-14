@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
 ## 个人信息
-**职位：**  博士后 @  **[乌普萨拉大学](https://www.uu.se/en)** [数学系](http://math.uu.se/?languageId=1)  <br>
+**职位：**  副研究员 @  **[首都师范大学]()** [交叉科学研究院]()  <br>
 **电子邮件：** [xiaoting.zhang09@hotmail.com]()  <br>   
 
 ## 研究兴趣
