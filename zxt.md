@@ -14,8 +14,9 @@
 ## 预印本
 * Finitary birepresentations of finitary bicategories, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer._ [arXiv:2008.01658](https://arxiv.org/abs/2008.01658).
 * Adjunction in the absence of identity, _with H. Ko and V. Mazorchuk._ [arXiv:2003.04610](https://arxiv.org/abs/2003.04610).
-* 2-representations of Soergel bimodules, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer_, [arXiv:1906.11468](https://arxiv.org/abs/1906.11468).
 * Quantum (dual) Grassmann superalgebra as U q (gl(m|n))-module algebra and beyond, _with G. Feng, N. Hu, and M. Zhang._ [arXiv:1909.10276](https://arxiv.org/abs/).
+* 2-representations of Soergel bimodules, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer._ [arXiv:1906.11468](https://arxiv.org/abs/1906.11468).
+
 
 ## 论文
 * 2-categories of symmetric bimodules and their 2-representations, _with V. Mazorchuk and V. Miemietz,_  **Pacific J. Math.** 306 (2020), no. 2, 645–678. ([arXiv:1904.05798](https://arxiv.org/abs/1904.05798))
