@@ -13,12 +13,12 @@
 
 ## Preprints
 * Quantum (dual) Grassmann superalgebra as U q (gl(m|n))-module algebra and beyond, _with G. Feng, N. Hu, and M. Zhang._ [arXiv:1909.10276](https://arxiv.org/abs/).
-* Adjunction in the absence of identity, with H. Ko and V. Mazorchuk. [arXiv:2003.04610](https://arxiv.org/abs/2003.04610).
+* Adjunction in the absence of identity, _with H. Ko and V. Mazorchuk._ [arXiv:2003.04610](https://arxiv.org/abs/2003.04610).
 * Finitary birepresentations of finitary bicategories, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer._ [arXiv:2008.01658](https://arxiv.org/abs/2008.01658).
 * 2-representations of Soergel bimodules, _with M. Mackaay, V. Mazorchuk, V. Miemietz and D. Tubbenhauer_, [arXiv:1906.11468](https://arxiv.org/abs/1906.11468)
 
 ## Papers
-* 2-categories of symmetric bimodules and their 2-representations, _with V. Mazorchuk and V. Miemietz,_  **Pacific J. Math.** 306 (2020), no. 2, 645–678. [arXiv:1904.05798](https://arxiv.org/abs/1904.05798)
+* 2-categories of symmetric bimodules and their 2-representations, _with V. Mazorchuk and V. Miemietz,_  **Pacific J. Math.** 306 (2020), no. 2, 645–678. ([arXiv:1904.05798](https://arxiv.org/abs/1904.05798))
 * Extreme representations of semirings, _with C. Chen, B. Dubsky, H. Jonsson, V. Mazorchuk, E. Westin and J. Zimmermann,_  **Serdica Math. J.** 44 (2018), no. 3-4, 365–412. ([arXiv:1806.06501](https://arxiv.org/abs/1806.06501))
 * Analogues of centralizer subalgebras for fiat 2-categories and their 2-representations, _with M. Mackaay, V. Mazorchuk and V. Miemietz,_ to appear in **J. Inst. Math. Jussieu.** ([arXiv:1802.02078](https://arxiv.org/abs/1802.02078))
 * Indecomposable manipulations with simple modules in category O, _with K. Coulembier and V. Mazorchuk_, **Math. Res. Lett.** 26 (2019), no. 2, 447–499. ([arXiv:1709.00547](https://arxiv.org/abs/1709.00547))
