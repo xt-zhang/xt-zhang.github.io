@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/xt-zhang/xt-zhang.github.io/master/xt.jpg" width="135" />  
 
 ## Personal informaiton
-**Position:**  Associate Reseacher @ Academy for Multidisciplinary Studies, **Captial Normal University**  <br>
+**Position:**  Tenure-track Associate Professor @ Academy for Multidisciplinary Studies, **Captial Normal University**  <br>
 **Email:** [xiaoting.zhang09@hotmail.com]()  <br>   
 
 ## Research interest
